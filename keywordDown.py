@@ -10,5 +10,5 @@ pyautogui.PAUSE = 0.5
 
 time.sleep(5)
 
-moshou_LR.showTime('fireAttack', waitTime = 11, feedTimes = 30)
+moshou_LR.showTime('fireAttack', waitTime = 13, feedTimes = 25)
 
