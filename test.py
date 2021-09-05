@@ -28,6 +28,4 @@ def moveMouse(pointX, poitnY,buttonclick):
 	time.sleep(1)
 	pass
 
-for x in range(0,2):
-	print(x)
-	pass
+moveMouse(0, 215,"left")
